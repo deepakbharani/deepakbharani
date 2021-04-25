@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[@deepakbharani](http://twitter.com/deepakbharani)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am a STEM Engineer and don't have a CS degree
+- ⚡ Fun fact: ...I am a Computational Mechanics Engineer and don't have a CS degree
 
