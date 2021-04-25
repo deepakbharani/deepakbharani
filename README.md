@@ -1,6 +1,4 @@
-### Hello ! 👋
-
-Here are some ideas to get you started:
+### Hello All ! 👋
 
 - 🔭 I’m currently working on ...Blockchain Technology
 - 🌱 I’m currently learning ...Blockchain Technology
